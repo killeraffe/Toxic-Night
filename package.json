@@ -1,0 +1,21 @@
+{
+  "name": "toxic-night",
+  "displayName": "Toxic Night",
+  "description": "A Dark and Toxic Night by Killeraffe inspired by icke (https://themes.vscode.one/user/icke/)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toxic Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toxic Night-color-theme.json"
+      }
+    ]
+  }
+}
