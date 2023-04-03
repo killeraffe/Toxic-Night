@@ -3,6 +3,21 @@
   "displayName": "Toxic Night",
   "description": "A Dark and Toxic Night by Killeraffe inspired by icke (https://themes.vscode.one/user/icke/)",
   "version": "0.0.1",
+  "publisher": "Killeraffe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killeraffe/Toxic-Night"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "killeraffe",
+    "toxic",
+    "toxic theme",
+    "night",
+    "toxic night"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
