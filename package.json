@@ -4,6 +4,7 @@
   "description": "A Dark and Toxic Night by Killeraffe inspired by icke (https://themes.vscode.one/user/icke/)",
   "version": "1.0.1",
   "publisher": "Killeraffe",
+  "icon": "images/icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/killeraffe/Toxic-Night"
